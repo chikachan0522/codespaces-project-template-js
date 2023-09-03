@@ -23,8 +23,7 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a High school student. I studying Flutter, Go, Python and Git.";
+const description = "I'm a High school student. I studying Flutter, Go, Python and Git.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
