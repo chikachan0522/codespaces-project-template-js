@@ -3,22 +3,22 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/chikachan0522/codespaces-teaching-template-js#readme",
+  "homepage": "https://github.com/chikachan0522/codespaces-project-template-js#readme",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://chikachan0522.github.io/codespaces-teaching-template-js'",
+    "build-gh": "parcel build --public-url 'https://chikachan0522.github.io/codespaces-project-template-js'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/chikachan0522/codespaces-project-template-js.git"
   },
   "author": "Microsoft",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/chikachan0522/codespaces-project-template-js/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
